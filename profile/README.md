@@ -49,7 +49,6 @@ We employ a wide range of cutting-edge techniques, including:
   * Seiji Akera, BA
 
 * **Collaborators:**
-  * Dr. Jonathan Polemeni, PhD - Director of Ultra-High Field Imaging, Harvard/MIT Martinos Center for Biomedical Imaging; Assistant Professor of Radiology, Harvard Medical School
   * Dr. Roberta Sclocco, PhD - Assistant Professor, Department of Radiology, Harvard Medical School
 
 ## Collaborations
