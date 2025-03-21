@@ -42,6 +42,11 @@ We employ a wide range of cutting-edge techniques, including:
 
 * **Postdoctoral Fellows:**
   * Dr. Mario Minor Murakami Junior, MD - Research Fellow, Psychiatry, Harvard Medical School
+ 
+* **Clinical Research Coordinators:**
+  * Deena Saadi, BA
+  * Evelyn Barringer, BA
+  * Seiji Akera, BA
 
 * **Collaborators:**
   * Dr. Jonathan Polemeni, PhD - Director of Ultra-High Field Imaging, Harvard/MIT Martinos Center for Biomedical Imaging; Assistant Professor of Radiology, Harvard Medical School
