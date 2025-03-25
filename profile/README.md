@@ -6,7 +6,7 @@ The VanElzakker Lab, led by Dr. Michael VanElzakker at the Division of Neurother
 
 ## Research Focus
 
-Our research aims to uncover the mechanisms by which neuroinflammation contributes to cognitive and behavioral dysfunction. Key areas of focus include:
+Our research aims to describes the mechanisms by which neuroinflammation contributes to cognitive and behavioral dysfunction. Key areas of focus include:
 
 * **Neuroimmune Interactions:** Investigating how peripheral immune signals influence brain function.
 * **Glial Cell Activation:** Examining the role of microglia and astrocytes in neuroinflammation.
@@ -50,10 +50,6 @@ We employ a wide range of cutting-edge techniques, including:
 
 * **Collaborators:**
   * Dr. Roberta Sclocco, PhD - Assistant Professor, Department of Radiology, Harvard Medical School
-
-## Collaborations
-
-We actively partner with researchers across disciplines to advance the study of neuroinflammation and its role in neurological diseases.
 
 ## Contact Us
 
