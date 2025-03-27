@@ -1,8 +1,8 @@
-# VanElzakker Lab
+# Vagabond Lab
 
 ## About Us
 
-The VanElzakker Lab, led by Dr. Michael VanElzakker at the Division of Neurotherapeutics, Harvard Medical School, investigates the role of neuroinflammation in neurological and psychiatric conditions. Using state-of-the-art neuroimaging techniques—specifically dual PET-MRI and ultra-high field 7-Tesla MRI—we explore the intricate relationship between the immune system and the brain.
+The Vagabond Lab, led by Dr. Michael VanElzakker at the Division of Neurotherapeutics, Harvard Medical School, investigates the role of neuroinflammation in neurological and psychiatric conditions. Using state-of-the-art neuroimaging techniques—specifically dual PET-MRI and ultra-high field 7-Tesla MRI—we explore the intricate relationship between the immune system and the brain.
 
 ## Research Focus
 
