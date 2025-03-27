@@ -41,7 +41,7 @@ We employ a wide range of cutting-edge techniques, including:
 
 **Principal Investigator:**
 
-* Dr. Michael VanElzakker, PhD - Instructor, Division of Neurotherapeutics, Harvard Medical School
+* Dr. Michael VanElzakker, PhD - Assistant Professor, Division of Neurotherapeutics, Harvard Medical School
 
 **Postdoctoral Fellows:**
 
