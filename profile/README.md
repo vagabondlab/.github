@@ -49,7 +49,6 @@ We employ a wide range of cutting-edge techniques, including:
 
 **Clinical Research Coordinators:**
 
-* Deena Saadi, BA
 * Evelyn Barringer, BA
 * Seiji Akera, BA
 
@@ -57,8 +56,13 @@ We employ a wide range of cutting-edge techniques, including:
 
 * Dr. Roberta Sclocco, PhD - Assistant Professor, Department of Radiology, Harvard Medical School
 
+**Previous Members:**
+* Deena Saadi, BA - Clinical Research Coordinators
+
+
 ## Contact Us
 
 For inquiries or collaboration opportunities, please contact:
 
 Dr. Michael VanElzakker, PhD: mvanelzakker@mgh.harvard.edu
+Dr. Mario Murami, MD: mmurakamijunior@mgh.harvard.edu
